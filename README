@@ -1,0 +1,8 @@
+# Ben the Bot
+
+**This is still a work in progress. A very slow one, at that.**
+
+This will serve as a task list for a long road ahead in actually implementing the custom bot for MedicTrust's Slack bot.
+
+[] Use Hubot as base Bot code
+[] Setup server (Heroku) for Ben to live
